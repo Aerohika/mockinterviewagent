@@ -1,10 +1,5 @@
-streamlit
-audiorecorder
+flask
 whisper
-pyttsx3
+openai
 pydub
-google-generativeai
 python-dotenv
-torch
-torchvision
-torchaudio
