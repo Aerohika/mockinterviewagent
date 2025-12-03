@@ -1,0 +1,10 @@
+streamlit
+audiorecorder
+whisper
+pyttsx3
+pydub
+google-generativeai
+python-dotenv
+torch
+torchvision
+torchaudio
