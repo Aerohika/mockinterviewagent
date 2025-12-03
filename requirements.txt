@@ -1,5 +1,6 @@
 flask
-whisper
+openai-whisper
 openai
 pydub
 python-dotenv
+SpeechRecognition
